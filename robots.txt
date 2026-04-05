@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miamibankruptcy.org/sitemap.xml
