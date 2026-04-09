@@ -1,0 +1,62 @@
+# Miami Bankruptcy -- Chapter 7 & 13 Filing Guide [2026]
+> Free Miami bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.
+
+## About
+miamibankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Miami Bankruptcy -- Chapter 7 & 13 Filing Guide: https://miamibankruptcy.org/
+- Chapter 7 Bankruptcy in Miami -- Eligibility, Exemptions, Timeline: https://miamibankruptcy.org/chapter-7.html
+- Chapter 13 Bankruptcy in Miami -- Payment Plans, Dismissal Rates, Timeline: https://miamibankruptcy.org/chapter-13.html
+- Florida Bankruptcy Exemptions -- What You Can Keep -- Miami: https://miamibankruptcy.org/exemptions.html
+- How Much Does Bankruptcy Cost in Miami? -- Filing Fees, Attorney Fees: https://miamibankruptcy.org/cost.html
+- What to Expect When Filing Bankruptcy -- Timeline, 341 Meeting, Discharge -- Miami: https://miamibankruptcy.org/what-to-expect.html
+- Miami Bankruptcy FAQ -- 18 Common Questions Answered: https://miamibankruptcy.org/faq.html
+- Miami Bankruptcy Statistics -- 130,553 Cases Analyzed: https://miamibankruptcy.org/statistics.html
+- Miami Bankruptcy Resources -- Courts, Legal Aid, Credit Counseling: https://miamibankruptcy.org/resources.html
+- Bankruptcy by County -- Miami Metro Area: https://miamibankruptcy.org/counties.html
+- Bankruptcy in Miami-Dade County -- Miami Bankruptcy Guide: https://miamibankruptcy.org/counties/miami-dade-county.html
+- Bankruptcy in Broward County -- Miami Bankruptcy Guide: https://miamibankruptcy.org/counties/broward-county.html
+- Bankruptcy in Palm Beach County -- Miami Bankruptcy Guide: https://miamibankruptcy.org/counties/palm-beach-county.html
+- Find Your Bankruptcy District -- Miami Bankruptcy Guide: https://miamibankruptcy.org/district-lookup.html
+- Free Legal Help for Bankruptcy in Miami: https://miamibankruptcy.org/legal-aid.html
+- Miami Means Test: Do You Qualify for Chapter 7?: https://miamibankruptcy.org/means-test.html
+- The Automatic Stay in Miami Bankruptcy: https://miamibankruptcy.org/automatic-stay.html
+- Rebuilding Credit After Bankruptcy in Miami: https://miamibankruptcy.org/credit-after-bankruptcy.html
+- Can I Keep My Car in Miami Bankruptcy?: https://miamibankruptcy.org/keep-your-car.html
+- Can I Keep My House in Miami Bankruptcy?: https://miamibankruptcy.org/keep-your-house.html
+- Medical Debt and Bankruptcy in Miami: https://miamibankruptcy.org/medical-debt.html
+- Wage Garnishment and Bankruptcy in Miami: https://miamibankruptcy.org/wage-garnishment.html
+- Student Loans and Bankruptcy in Miami: https://miamibankruptcy.org/student-loans.html
+- Tax Debt and Bankruptcy in Miami: https://miamibankruptcy.org/tax-debt.html
+- Small Business Bankruptcy in Miami: https://miamibankruptcy.org/small-business.html
+- Types of Debt in Miami Bankruptcy: https://miamibankruptcy.org/debt-types.html
+- Foreclosure and Bankruptcy in Miami: https://miamibankruptcy.org/foreclosure.html
+- Vehicle Repossession and Bankruptcy in Miami: https://miamibankruptcy.org/repossession.html
+- Bankruptcy Timeline in Miami: What to Expect: https://miamibankruptcy.org/timeline.html
+- The 341 Meeting of Creditors in Miami: https://miamibankruptcy.org/341-meeting.html
+- Bankruptcy Filing Checklist for Miami: https://miamibankruptcy.org/checklist.html
+- Emergency Bankruptcy Filing in Miami: https://miamibankruptcy.org/emergency-bankruptcy.html
+- Divorce and Bankruptcy in Miami: https://miamibankruptcy.org/divorce-and-bankruptcy.html
+- Credit Card Debt and Bankruptcy in Miami: https://miamibankruptcy.org/credit-card-debt.html
+- Converting Between Bankruptcy Chapters in Miami: https://miamibankruptcy.org/converting-chapters.html
+- Chapter 7 Eligibility in Miami: https://miamibankruptcy.org/chapter-7-eligibility.html
+- Chapter 13 Eligibility in Miami: https://miamibankruptcy.org/chapter-13-eligibility.html
+- Buying a House After Bankruptcy in Miami: https://miamibankruptcy.org/buying-a-house.html
+- Bankruptcy Glossary -- Miami Terms: https://miamibankruptcy.org/glossary.html
+- Payday Loans and Bankruptcy in Miami: https://miamibankruptcy.org/payday-loans.html
+- Judgments and Bankruptcy in Miami: https://miamibankruptcy.org/judgments.html
+- Second Mortgages and Bankruptcy in Miami: https://miamibankruptcy.org/second-mortgage.html
+- Bank Accounts and Bankruptcy in Miami: https://miamibankruptcy.org/bank-account.html
+- Chapter 13 Payments in Miami: https://miamibankruptcy.org/chapter-13-payments.html
+- Bankruptcy Income Limits in Miami: https://miamibankruptcy.org/income-limits.html
+- Bankruptcy Disqualifications in Miami: https://miamibankruptcy.org/disqualifications.html
+- Miami Federal Bankruptcy Court Guide -- S.D. Florida Filing Information: https://miamibankruptcy.org/court-guide.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
