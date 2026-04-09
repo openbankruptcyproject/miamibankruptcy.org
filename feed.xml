@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>miamibankruptcy.org -- Bankruptcy Information</title>
+  <subtitle>Free bankruptcy information and guides from the Open Bankruptcy Project</subtitle>
+  <link href="https://miamibankruptcy.org/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://miamibankruptcy.org/" rel="alternate" type="text/html"/>
+  <id>https://miamibankruptcy.org/</id>
+  <updated>2026-04-08T00:00:00Z</updated>
+  <author>
+    <name>Open Bankruptcy Project</name>
+    <uri>https://openbankruptcyproject.org</uri>
+  </author>
+  <rights>Copyright 2026 Open Bankruptcy Project</rights>
+  <entry>
+    <title>Miami Bankruptcy -- Chapter 7 &amp; 13 Filing Guide [2026]</title>
+    <link href="https://miamibankruptcy.org/" rel="alternate"/>
+    <id>https://miamibankruptcy.org/</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Free Miami bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>The 341 Meeting of Creditors in Miami</title>
+    <link href="https://miamibankruptcy.org/341-meeting.html" rel="alternate"/>
+    <id>https://miamibankruptcy.org/341-meeting.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>What to expect at the 341 meeting in Miami bankruptcy. Questions asked, how to prepare, and what happens at the S.D. Fla..</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>The Automatic Stay in Miami Bankruptcy</title>
+    <link href="https://miamibankruptcy.org/automatic-stay.html" rel="alternate"/>
+    <id>https://miamibankruptcy.org/automatic-stay.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Learn how the automatic stay protects Miami residents when filing bankruptcy. What stops immediately, what does not, stay violations, and.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Bank Accounts and Bankruptcy in Miami</title>
+    <link href="https://miamibankruptcy.org/bank-account.html" rel="alternate"/>
+    <id>https://miamibankruptcy.org/bank-account.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How bankruptcy affects your bank account in Miami, Florida. Freezes, levies, exemptions, and how to protect your money when filing in the Southern.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Can I Buy a Car While in Chapter 13? -- Miami</title>
+    <link href="https://miamibankruptcy.org/buy-car-chapter-13.html" rel="alternate"/>
+    <id>https://miamibankruptcy.org/buy-car-chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>You need trustee approval and a court motion to purchase a vehicle during Chapter 13. [Miami]</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Buying a House After Bankruptcy in Miami</title>
+    <link href="https://miamibankruptcy.org/buying-a-house.html" rel="alternate"/>
+    <id>https://miamibankruptcy.org/buying-a-house.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How to buy a house after bankruptcy in Miami, Florida. FHA, VA, and conventional loan waiting periods, credit rebuilding, and Florida-specific.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Car Leases and Bankruptcy -- Miami</title>
+    <link href="https://miamibankruptcy.org/car-lease.html" rel="alternate"/>
+    <id>https://miamibankruptcy.org/car-lease.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>You have 60 days after filing to decide whether to assume (keep) or reject (surrender) your car lease. [Miami]</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Eligibility in Miami</title>
+    <link href="https://miamibankruptcy.org/chapter-13-eligibility.html" rel="alternate"/>
+    <id>https://miamibankruptcy.org/chapter-13-eligibility.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Chapter 13 eligibility requirements in Miami, Florida. Income requirements, debt limits, and how to qualify in the Southern District of Florida.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Payments in Miami</title>
+    <link href="https://miamibankruptcy.org/chapter-13-payments.html" rel="alternate"/>
+    <id>https://miamibankruptcy.org/chapter-13-payments.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How Chapter 13 plan payments work in Miami, Florida. Payment amounts, what gets paid, how long, and what happens if you miss a payment in the Southern.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Bankruptcy in Miami -- Payment Plans, Dismissal Rates, Timeline</title>
+    <link href="https://miamibankruptcy.org/chapter-13.html" rel="alternate"/>
+    <id>https://miamibankruptcy.org/chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Guide to Chapter 13 bankruptcy in Miami. Payment plan basics, S.D. Fla. dismissal rate (55.7%), timeline, 3-5 year commitment, and what to expect.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+</feed>
