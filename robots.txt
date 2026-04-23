@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://miamibankruptcy.org/sitemap.xml
 
-Sitemap: https://miamibankruptcy.org/feed.xml
+
+Sitemap: https://miamibankruptcy.org/sitemapindex.xml
