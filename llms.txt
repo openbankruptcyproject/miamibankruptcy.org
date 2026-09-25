@@ -1,5 +1,5 @@
-# Miami Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# Miami Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
 > Free Miami bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.
 
@@ -33,7 +33,7 @@ miamibankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyprojec
 - Bankruptcy in Pompano Beach, FL - Miami Bankruptcy Guide: https://miamibankruptcy.org/cities/pompano-beach.html
 - Bankruptcy in West Palm Beach, FL - Miami Bankruptcy Guide: https://miamibankruptcy.org/cities/west-palm-beach.html
 - Converting Between Bankruptcy Chapters in Miami: https://miamibankruptcy.org/converting-chapters.html
-- How Much Does Bankruptcy Cost in Miami? - Filing Fees, Attorney Fees: https://miamibankruptcy.org/cost.html
+- Miami Bankruptcy Cost [2026]: Filing Fees ($338/$313) and S.D. Florida Attorney Fee Norms: https://miamibankruptcy.org/cost.html
 - Bankruptcy by County - Miami Metro Area: https://miamibankruptcy.org/counties.html
 - Bankruptcy in Broward County - Miami Bankruptcy Guide: https://miamibankruptcy.org/counties/broward-county.html
 - Bankruptcy in Miami-Dade County - Miami Bankruptcy Guide: https://miamibankruptcy.org/counties/miami-dade-county.html
@@ -52,12 +52,12 @@ miamibankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyprojec
 - Can I Keep My Engagement Ring in Bankruptcy? - Miami: https://miamibankruptcy.org/engagement-ring.html
 - Can Bankruptcy Stop an Eviction? - Miami: https://miamibankruptcy.org/eviction.html
 - Florida Bankruptcy Exemptions - What You Can Keep - Miami: https://miamibankruptcy.org/exemptions.html
-- Miami Bankruptcy FAQ - 18 Common Questions Answered: https://miamibankruptcy.org/faq.html
+- Miami Bankruptcy FAQ [2026]: 18 Southern District of Florida Filing Questions Answered: https://miamibankruptcy.org/faq.html
 - How to Find Out if Someone Filed Bankruptcy - Miami: https://miamibankruptcy.org/find-bankruptcy-filing.html
 - Foreclosure and Bankruptcy in Miami: https://miamibankruptcy.org/foreclosure.html
 - Bankruptcy Glossary - Miami Terms: https://miamibankruptcy.org/glossary.html
 - Bankruptcy Income Limits in Miami: https://miamibankruptcy.org/income-limits.html
-- Miami Bankruptcy - Chapter 7 & 13 Filing Guide: https://miamibankruptcy.org/
+- Miami Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://miamibankruptcy.org/
 - Judgments and Bankruptcy in Miami: https://miamibankruptcy.org/judgments.html
 - Can I Keep My Car in Miami Bankruptcy?: https://miamibankruptcy.org/keep-your-car.html
 - Can I Keep My House in Miami Bankruptcy?: https://miamibankruptcy.org/keep-your-house.html
@@ -75,7 +75,7 @@ miamibankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyprojec
 - Second Mortgages and Bankruptcy in Miami: https://miamibankruptcy.org/second-mortgage.html
 - Bankruptcy and Security Clearance - Miami: https://miamibankruptcy.org/security-clearance.html
 - Small Business Bankruptcy in Miami: https://miamibankruptcy.org/small-business.html
-- Miami Bankruptcy Statistics - 130,553 Cases Analyzed: https://miamibankruptcy.org/statistics.html
+- Miami Bankruptcy Statistics [2026]: 130,553 S.D. Florida Cases Analyzed: https://miamibankruptcy.org/statistics.html
 - What Bills Can I Stop Paying Before Filing? - Miami: https://miamibankruptcy.org/stop-paying-bills.html
 - Student Loans and Bankruptcy in Miami: https://miamibankruptcy.org/student-loans.html
 - Surrendering Your Car in Bankruptcy - Miami: https://miamibankruptcy.org/surrender-car.html
@@ -87,6 +87,7 @@ miamibankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyprojec
 - Wage Garnishment and Bankruptcy in Miami: https://miamibankruptcy.org/wage-garnishment.html
 - What to Expect When Filing Bankruptcy - Timeline, 341 Meeting, Discharge - Miami: https://miamibankruptcy.org/what-to-expect.html
 - Privacy Policy: https://miamibankruptcy.org/privacy.html
+- About miamibankruptcy.org: https://miamibankruptcy.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
